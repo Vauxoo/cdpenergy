@@ -1,0 +1,3 @@
+[submodule "cdpenergy"]
+	path = cdpenergy
+	url = git@git.vauxoo.com:vauxoo/cdpenergy.git
