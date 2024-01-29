@@ -1,6 +1,7 @@
 [submodule "cdpenergy"]
 	path = cdpenergy
 	url = git@git.vauxoo.com:vauxoo/cdpenergy.git
+	branch = 17.0
 [submodule "credit-management"]
 	path = credit-management
 	url = git@git.vauxoo.com:vauxoo/credit-management.git
@@ -8,7 +9,7 @@
 [submodule "costarica"]
 	path = costarica
 	url = git@git.vauxoo.com:vauxoo/costarica.git
-	branch = 16.0
+	branch = 17.0
 [submodule "stock-psycho-account"]
 	path = stock-psycho-account
 	url = git@git.vauxoo.com:vauxoo/stock-psycho-account.git
