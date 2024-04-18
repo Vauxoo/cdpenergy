@@ -9,3 +9,7 @@
 [submodule "stock-psycho-account"]
 	path = stock-psycho-account
 	url = git@git.vauxoo.com:vauxoo/stock-psycho-account.git
+[submodule "nicaragua"]
+	path = nicaragua
+	url = git@git.vauxoo.com:vauxoo/nicaragua.git
+	branch = 17.0
