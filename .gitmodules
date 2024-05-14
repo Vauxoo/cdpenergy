@@ -13,3 +13,7 @@
 	path = nicaragua
 	url = git@git.vauxoo.com:vauxoo/nicaragua.git
 	branch = 17.0
+[submodule "credit-management"]
+	path = credit-management
+	url = git@git.vauxoo.com:vauxoo/credit-management.git
+	branch = 17.0
