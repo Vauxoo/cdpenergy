@@ -29,3 +29,11 @@
 	path = addons-vauxoo
 	url = git@github.com:Vauxoo/addons-vauxoo.git
 	branch = 17.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:Vauxoo/product-attribute.git
+	branch = 17.0
+[submodule "margin-analysis"]
+	path = margin-analysis
+	url = git@github.com:Vauxoo/margin-analysis.git
+	branch = 17.0
